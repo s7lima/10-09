@@ -1,4 +1,4 @@
-[]()# Projeto aula 06-09
+[]()# Projeto aula 10-09
 
 ## HTML + CSS
 
@@ -6,4 +6,4 @@ Nessa aula tivemos alguns conceito importante sobre html + Css
 
 ## Autor
 
-- [@ProfRodolfo](https://www.github.com/ProfRodolfo)
+- [@s7lima](https://www.github.com/10-09)
